@@ -1,162 +1,160 @@
 # Login
 
-login-current: Welcome to the CollectionSpace Anthropology Demo
-login-current-info-4: anthropology profile
-login-current-info-5: of CollectionSpace, which includes fields and procedures useful for anthropology collections. If you’re interested in a version of CollectionSpace configured to meet the needs of a different domain, please visit our
+login-current: CollectionSpace Antropoloji Demo'suna Hoş Geldiniz
+login-current-info-4: antropoloji profili
+login-current-info-5: CollectionSpace'in, antropoloji koleksiyonları için yararlı alanlar ve prosedürler içeren sürümü. Farklı bir alanın ihtiyaçlarını karşılamak için yapılandırılmış bir CollectionSpace sürümüyle ilgileniyorsanız, lütfen web sitemizi ziyaret edin.
 login-login: admin@anthro.collectionspace.org
 login-rologin: reader@anthro.collectionspace.org
 
 # Cataloging
 
-collection-object-anthroObjectStatusLabel: Object status
-collection-object-ethnoFileCodeLabel: Ethnographic file code
+collection-object-anthroObjectStatusLabel: Obje durumu
+collection-object-ethnoFileCodeLabel: Etnografik dosya kodu
 
-collection-object-assocPeopleGroupLabel: Associated cultural group
-collection-object-assocPeopleLabel: Cultural group
-collection-object-assocPeopleTypeLabel: Type of association
-collection-object-assocPeopleNoteLabel: Note
+collection-object-assocPeopleGroupLabel: İlişkili kültürel grup
+collection-object-assocPeopleLabel: Kültürel grup
+collection-object-assocPeopleTypeLabel: İlişki türü
+collection-object-assocPeopleNoteLabel: Not
 
-collection-object-annotationGroupLabel: Annotations
-collection-object-annotationTypeLabel: Type
-collection-object-annotationNoteLabel: Note
-collection-object-annotationDateLabel: Date
-collection-object-annotationAuthorLabel: Author
+collection-object-annotationGroupLabel: Açıklamalar
+collection-object-annotationTypeLabel: Tür
+collection-object-annotationNoteLabel: Not
+collection-object-annotationDateLabel: Tarih
+collection-object-annotationAuthorLabel: Yazar
 
-collection-object-usageGroupLabel: Context of use
-collection-object-usageNoteLabel: Note
+collection-object-usageGroupLabel: Kullanım bağlamı
+collection-object-usageNoteLabel: Not
 
-collection-object-fieldLocVerbatimLabel: Field collection place (verbatim)
+collection-object-fieldLocVerbatimLabel: Alan toplama yeri (kesin)
 
-collection-object-objectProductionPeopleGroupLabel: Production cultural group
-collection-object-objectProductionPeopleLabel: Cultural group
+collection-object-objectProductionPeopleGroupLabel: Üretim kültürel grubu
+collection-object-objectProductionPeopleLabel: Kültürel grup
 
-collection-object-nagpraInformationLabel: Repatriation and NAGPRA Compliance Information
-collection-object-nagpraInventoryNameLabel: NAGPRA inventory
-collection-object-nagpraCategoryLabel: Museum's NAGPRA category det.
-collection-object-nagpraCulturalDeterminationLabel: NAGPRA cultural determination
-collection-object-graveAssocCodeLabel: Grave association code
-collection-object-repatriationNoteLabel: Repatriation note
+collection-object-nagpraInformationLabel: İade ve NAGPRA Uyum Bilgileri
+collection-object-nagpraInventoryNameLabel: NAGPRA envanteri
+collection-object-nagpraCategoryLabel: Müzenin NAGPRA kategori det.
+collection-object-nagpraCulturalDeterminationLabel: NAGPRA kültürel belirleme
+collection-object-graveAssocCodeLabel: Mezar ilişki kodu
+collection-object-repatriationNoteLabel: İade notu
 
-collection-object-biologicalInformationLabel: Biological Information
+collection-object-biologicalInformationLabel: Biyolojik Bilgi
 
-collection-object-taxonomicIdentGroupLabel: Determination History
-collection-object-taxonLabel: Scientific Name
-collection-object-qualifierLabel: Qualifier
-collection-object-identByLabel: By
-taxonomicIdentGroup-identDateGroupLabel: Date
-collection-object-institutionLabel: Institution
-collection-object-identKindLabel: Kind
-collection-object-referenceLabel: Reference
-collection-object-refPageLabel: Page
-collection-object-notesLabel: Notes
+collection-object-taxonomicIdentGroupLabel: Belirleme Tarihi
+collection-object-taxonLabel: Bilimsel Ad
+collection-object-qualifierLabel: Belirleyici
+collection-object-identByLabel: Tarafından
+taxonomicIdentGroup-identDateGroupLabel: Tarih
+collection-object-institutionLabel: Kurum
+collection-object-identKindLabel: Tür
+collection-object-referenceLabel: Referans
+collection-object-refPageLabel: Sayfa
+collection-object-notesLabel: Notlar
 
-collection-object-anthroOwnershipGroupLabel: Previous owners
-collection-object-anthroOwnerLabel: Name
-anthroOwnershipGroup-anthroOwnershipDateGroupLabel: Date(s)
-collection-object-anthroOwnershipCategoryLabel: Category
-collection-object-anthroOwnershipMethodLabel: Exch. meth.
-collection-object-anthroOwnershipPlaceLabel: Place
-collection-object-anthroOwnershipPriceCurrencyLabel: Price (currency)
-collection-object-anthroOwnershipPriceAmountLabel: Price (amount)
-collection-object-anthroOwnershipNoteLabel: Note
+collection-object-anthroOwnershipGroupLabel: Önceki sahipler
+collection-object-anthroOwnerLabel: İsim
+anthroOwnershipGroup-anthroOwnershipDateGroupLabel: Tarih(ler)
+collection-object-anthroOwnershipCategoryLabel: Kategori
+collection-object-anthroOwnershipMethodLabel: Değişim yönt.
+collection-object-anthroOwnershipPlaceLabel: Yer
+collection-object-anthroOwnershipPriceCurrencyLabel: Fiyat (para birimi)
+collection-object-anthroOwnershipPriceAmountLabel: Fiyat (miktar)
+collection-object-anthroOwnershipNoteLabel: Not
 
-collection-object-referenceInformationLabel: Bibliographic Reference Information
-collection-object-referenceGroupLabel: Bibliographic reference(s)
+collection-object-referenceInformationLabel: Bibliyografik Referans Bilgileri
+collection-object-referenceGroupLabel: Bibliyografik referans(lar)
 
 # Concept
-vocab-archculture: Arch Cultures
-vocab-ethfilecode: Ethnographic File Code
-vocab-ethculture: Ethnographic Cultures
+vocab-archculture: Arkeolojik Kültürler
+vocab-ethfilecode: Etnografik Dosya Kodu
+vocab-ethculture: Etnografik Kültürler
 
 # Claim
-claim-editRecord: Edit NAGPRA Claim Record
-claim-recordList: Related NAGPRA Claim Records
-claim: NAGPRA Claim
+claim-editRecord: NAGPRA Talep Kaydını Düzenle
+claim-recordList: İlgili NAGPRA Talep Kayıtları
+claim: NAGPRA Talebi
 claim-tab: NAGPRA
 
-claim-claimInformationLabel: NAGPRA Claim Information
+claim-claimInformationLabel: NAGPRA Talep Bilgileri
 
-claim-nagpraClaimNameLabel: Claim name
+claim-nagpraClaimNameLabel: Talep adı
 
-claim-nagpraClaimAltNameGroupLabel: Alternate claim names or numbers
-claim-nagpraClaimAltNameLabel: Name
-claim-nagpraClaimAltNameNoteLabel: Note
+claim-nagpraClaimAltNameGroupLabel: Alternatif talep adları veya numaraları
+claim-nagpraClaimAltNameLabel: Ad
+claim-nagpraClaimAltNameNoteLabel: Not
 
-claim-nagpraClaimTypeLabel: Claim type
+claim-nagpraClaimTypeLabel: Talep türü
 
-claim-claimReceivedDateStartLabel: Earliest
-claim-claimReceivedDateEndLabel: Latest
+claim-claimReceivedDateStartLabel: En erken
+claim-claimReceivedDateEndLabel: En geç
 
-claim-nagpraClaimNoteLabel: Notes on claim
+claim-nagpraClaimNoteLabel: Talep notları
 
-claim-claimAssociationInformationLabel: Claim Context
+claim-claimAssociationInformationLabel: Talep Bağlamı
 
-claim-nagpraClaimInventoryGroupLabel: Inventory Involved
-claim-nagpraClaimInventoryNameLabel: Inventory
-claim-nagpraClaimInventoryNoteLabel: Note
+claim-nagpraClaimInventoryGroupLabel: İlgili Envanter
+claim-nagpraClaimInventoryNameLabel: Envanter
+claim-nagpraClaimInventoryNoteLabel: Not
 
-claim-nagpraClaimSiteGroupLabel: Sites involved
-claim-nagpraClaimSiteNameLabel: Site or place name
-claim-nagpraClaimSiteNoteLabel: Note
+claim-nagpraClaimSiteGroupLabel: İlgili Siteler
+claim-nagpraClaimSiteNameLabel: Site veya yer adı
+claim-nagpraClaimSiteNoteLabel: Not
 
-claim-nagpraClaimGroupGroupLabel: Cultural groups involved
-claim-nagpraClaimGroupNameLabel: Name
-claim-nagpraClaimGroupNoteLabel: Note
+claim-nagpraClaimGroupGroupLabel: İlgili Kültürel Gruplar
+claim-nagpraClaimGroupNameLabel: Ad
+claim-nagpraClaimGroupNoteLabel: Not
 
-claim-nagpraClaimPeriodGroupLabel: Time period(s) represented
-nagpraClaimPeriodGroup-nagpraClaimPeriodDateGroupLabel: Period or date
-claim-nagpraClaimPeriodNoteLabel: Note
+claim-nagpraClaimPeriodGroupLabel: Temsil Edilen Zaman Dönemi(leri)
+nagpraClaimPeriodGroup-nagpraClaimPeriodDateGroupLabel: Dönem veya tarih
+claim-nagpraClaimPeriodNoteLabel: Not
 
-claim-claimProcessingInformationLabel: Claim Processing Information
+claim-claimProcessingInformationLabel: Talep İşleme Bilgileri
 
-claim-nagpraClaimInitialResponseGroupLabel: Date of initial response
-claim-nagpraClaimInitialResponseDateLabel: Date
-claim-nagpraClaimInitialResponseNoteLabel: Note
+claim-nagpraClaimInitialResponseGroupLabel: İlk yanıt tarihi
+claim-nagpraClaimInitialResponseDateLabel: Tarih
+claim-nagpraClaimInitialResponseNoteLabel: Not
 
-claim-nagpraClaimSentToLocalGroupLabel: Date sent to NAGPRA committee
-claim-nagpraClaimSentToLocalDateLabel: Date
-claim-nagpraClaimSentToLocalNoteLabel: Note
+claim-nagpraClaimSentToLocalGroupLabel: NAGPRA komitesine gönderilme tarihi
+claim-nagpraClaimSentToLocalDateLabel: Tarih
+claim-nagpraClaimSentToLocalNoteLabel: Not
 
-claim-nagpraClaimLocalRecGroupLabel: Recommendation of NAGPRA committee
-claim-nagpraClaimLocalRecDateLabel: Date
-claim-nagpraClaimLocalRecNoteLabel: Committee's recommendations
+claim-nagpraClaimLocalRecGroupLabel: NAGPRA komitesinin tavsiyesi
+claim-nagpraClaimLocalRecDateLabel: Tarih
+claim-nagpraClaimLocalRecNoteLabel: Komitenin tavsiyeleri
 
-claim-nagpraClaimSentToNatlGroupLabel: Date sent to National NAGPRA
-claim-nagpraClaimSentToNatlDateLabel: Date
-claim-nagpraClaimSentToNatlNoteLabel: Note
+claim-nagpraClaimSentToNatlGroupLabel: Ulusal NAGPRA'ya gönderilme tarihi
+claim-nagpraClaimSentToNatlDateLabel: Tarih
+claim-nagpraClaimSentToNatlNoteLabel: Not
 
-claim-nagpraClaimNatlRespGroupLabel: Response from National NAGPRA
-claim-nagpraClaimNatlRespDateLabel: Date
-claim-nagpraClaimNatlRespNoteLabel: Response
+claim-nagpraClaimNatlRespGroupLabel: Ulusal NAGPRA'dan gelen yanıt
+claim-nagpraClaimNatlRespDateLabel: Tarih
+claim-nagpraClaimNatlRespNoteLabel: Yanıt
 
-claim-nagpraClaimNatlApprovalGroupLabel: Publication by National NAGPRA
-claim-nagpraClaimNatlApprovalDateLabel: Date
-claim-nagpraClaimNatlApprovalNoteLabel: Note
+claim-nagpraClaimNatlApprovalGroupLabel: Ulusal NAGPRA tarafından yayınlanma
+claim-nagpraClaimNatlApprovalDateLabel: Tarih
+claim-nagpraClaimNatlApprovalNoteLabel: Not
 
-claim-nagpraClaimNoticeGroupLabel: Start and end dates for National NAGPRA's 30-day notice
-claim-nagpraClaimNoticeDateLabel: Date
-claim-nagpraClaimNoticeDateTypeLabel: Type
-claim-nagpraClaimNoticeNoteLabel: Note
+claim-nagpraClaimNoticeGroupLabel: Ulusal NAGPRA'nın 30 günlük bildirim başlangıç ve bitiş tarihleri
+claim-nagpraClaimNoticeDateLabel: Tarih
+claim-nagpraClaimNoticeDateTypeLabel: Tür
+claim-nagpraClaimNoticeNoteLabel: Not
 
-claim-nagpraClaimTransferGroupLabel: Date of transfer
-claim-nagpraClaimTransferDateLabel: Date
-claim-nagpraClaimTransferNoteLabel: Note
+claim-nagpraClaimTransferGroupLabel: Transfer tarihi
+claim-nagpraClaimTransferDateLabel: Tarih
+claim-nagpraClaimTransferNoteLabel: Not
 
-claim-claimTaskInformationLabel: Tasks to be completed
-claim-claimTaskHeaderLabel: Task
-claim-claimTaskNotesHeaderLabel: Notes
-claim-dispositionPossibilitiesDiscussedLabel: Disposition possibilities discussed
-claim-surroundingTribesContactedLabel: Surrounding tribes contacted
-claim-workingTeamNotifiedLabel: Institutional NAGPRA team notified
-claim-siteFileResearchCompletedLabel: Site file research completed
-claim-accessionFileResearchCompletedLabel: Accession file research completed
-claim-objectsLocatedAndCountedLabel: Objects located and counted
-claim-objectsConsolidatedLabel: Objects consolidated
-claim-objectsPhotographedLabel: Objects photographed
-claim-registrationDocumentsDraftedLabel: Registration documents drawn up
-claim-tribeContactedForPackingPreferencesLabel: Tribe contacted for packing/storage instructions
-claim-dateArrangedForTransferLabel: Date arranged for pickup/transfer
-claim-objectsMarkedAsDeaccessionedLabel: Objects marked as deaccessioned
-claim-documentsArchivedLabel: Claim documents archived
-
-
+claim-claimTaskInformationLabel: Tamamlanması gereken görevler
+claim-claimTaskHeaderLabel: Görev
+claim-claimTaskNotesHeaderLabel: Notlar
+claim-dispositionPossibilitiesDiscussedLabel: Mümkün çözüm yolları tartışıldı
+claim-surroundingTribesContactedLabel: Çevredeki kabilelerle iletişim kuruldu
+claim-workingTeamNotifiedLabel: Kurumsal NAGPRA ekibi bilgilendirildi
+claim-siteFileResearchCompletedLabel: Site dosya araştırması tamamlandı
+claim-accessionFileResearchCompletedLabel: Kabul dosya araştırması tamamlandı
+claim-objectsLocatedAndCountedLabel: Nesneler bulundu ve sayıldı
+claim-objectsConsolidatedLabel: Nesneler birleştirildi
+claim-objectsPhotographedLabel: Nesneler fotoğraflandı
+claim-registrationDocumentsDraftedLabel: Kayıt belgeleri hazırlandı
+claim-tribeContactedForPackingPreferencesLabel: Kabile, paketleme/dep. talimatları için iletişime geçildi
+claim-dateArrangedForTransferLabel: Alım/transfer tarihi belirlendi
+claim-objectsMarkedAsDeaccessionedLabel: Nesneler deaksesyon olarak işaretlendi
+claim-documentsArchivedLabel: Talep belgeleri arşivlendi
